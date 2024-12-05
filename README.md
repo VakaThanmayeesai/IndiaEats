@@ -79,7 +79,7 @@ It is the page where the donor should enter their personal details as well as th
 If the selected role is 'user', the following webpages will be visible.
 
 **User Home Page:**
-![us1](https://github.com/user-attachments/assets/a7a6e609-e8fe-49ab-98f6-daca2968d38a)
+![user](https://github.com/user-attachments/assets/4b403964-b9f3-42b8-ac13-2d2a765a0426)
 
 **User About Us Page:**
 ![do2](https://github.com/user-attachments/assets/a7d37256-bded-4fb2-962b-987247d291cf)
@@ -88,7 +88,7 @@ If the selected role is 'user', the following webpages will be visible.
 ![do3](https://github.com/user-attachments/assets/af912e2d-1253-49e0-a2bb-95a1fd3041fa)
 
 **Food Info Page:**
-![d04](https://github.com/user-attachments/assets/b789dcdb-c187-433d-9c72-b861b0bddbc0)
+![user1](https://github.com/user-attachments/assets/4e91fa91-b005-48b2-bc2f-7771b934ea7c)
 
 In this page, both food details and donor details are visible. If you want a particular food, you should click the 'Hide' button and contact the donor . Once you click 'Hide', the background color of that food item will change to indicate that it has been taken, and if another user is viewing the website, they will see that the food is no longer available. If you decide you do not want the food, clicking the 'Reset' button will revert the changes.
 
